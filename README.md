@@ -11,7 +11,7 @@
 
 ![visualization](https://github.com/jacobgil/jacobgil.github.io/blob/master/assets/cam_dog.gif?raw=true
 )
-
+ 
 
 
 | Method   | What it does |
